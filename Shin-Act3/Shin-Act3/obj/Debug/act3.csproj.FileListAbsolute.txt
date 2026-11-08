@@ -1,0 +1,12 @@
+E:\IS-SI-Act\SofiaFe\Shin-Act3\bin\Debug\ACT3.exe.config
+E:\IS-SI-Act\SofiaFe\Shin-Act3\bin\Debug\ACT3.exe
+E:\IS-SI-Act\SofiaFe\Shin-Act3\bin\Debug\ACT3.pdb
+E:\IS-SI-Act\SofiaFe\Shin-Act3\obj\Debug\act3.csproj.AssemblyReference.cache
+E:\IS-SI-Act\SofiaFe\Shin-Act3\obj\Debug\SIGN_IN.dashboard.resources
+E:\IS-SI-Act\SofiaFe\Shin-Act3\obj\Debug\SIGN_IN.Form1.resources
+E:\IS-SI-Act\SofiaFe\Shin-Act3\obj\Debug\SIGN_IN.Properties.Resources.resources
+E:\IS-SI-Act\SofiaFe\Shin-Act3\obj\Debug\SIGN_IN.signin.resources
+E:\IS-SI-Act\SofiaFe\Shin-Act3\obj\Debug\act3.csproj.GenerateResource.cache
+E:\IS-SI-Act\SofiaFe\Shin-Act3\obj\Debug\act3.csproj.CoreCompileInputs.cache
+E:\IS-SI-Act\SofiaFe\Shin-Act3\obj\Debug\ACT3.exe
+E:\IS-SI-Act\SofiaFe\Shin-Act3\obj\Debug\ACT3.pdb
